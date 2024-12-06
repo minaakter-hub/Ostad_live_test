@@ -1,0 +1,40 @@
+/* Typography */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h4 {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  /* Header */
+  header {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  header nav a {
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  
+  header button i {
+    margin-right: 0.5rem;
+  }
+  
+  /* Basket Section */
+  section h2 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  /* Order Summary */
+  .list-group-item {
+    font-size: 1rem;
+  }
+  
+  /* Button */
+  button {
+    font-weight: bold;
+  }
+  
